@@ -6,7 +6,7 @@ It prints the details of four specific events in the story of Little Red Riding 
 This program was created by... 
     Jeanette Simo        Student ID: 920059238
     Christine Morataya   Student ID: 918843621
-    [   Other Partner ]  Student ID: 921469351
+    Tsenbujin Tsendjav   Student ID: 921469351
 
 # How to Run Program
 
