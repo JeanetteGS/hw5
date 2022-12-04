@@ -1,0 +1,12 @@
+{
+   "Location" : "Spot in the Woods",
+   "Person 1" : {
+      "Description" : "Wicked Creature",
+      "Name" : "Wolf"
+   },
+   "Person 2" : {
+      "Description" : "Dear Little Girl",
+      "Name" : "Little Red Riding Hood"
+   },
+   "When" : "After Entering the Woods"
+}

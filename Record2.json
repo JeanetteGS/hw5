@@ -1,0 +1,10 @@
+{
+   "Item 1" : "piece of cake",
+   "Item 2" : "bottle of wine",
+   "Location" : "Little Red Riding Hood's House",
+   "Person 1" : {
+      "Description" : " of little red riding hood",
+      "Name" : "Mother"
+   },
+   "When" : "One Day"
+}
